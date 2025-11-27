@@ -76,19 +76,19 @@ Verified using: kubectl get all
 ## 📸 **Screenshots**
 
 ### **Docker Hub Repository**
-![Docker Hub Screenshot](docker-image.PNG)
+(docker-image.PNG)
 
 ### **Helm Chart Output**
-![Helm Chart Screenshot](helm-chart.png)
+(helm-chart.png)
 
 ### **Ansible Apache Installation**
-![Ansible Apache Screenshot](httppd.png)
+(httppd.png)
 
 ### **Flask App on Kubernetes**
-![Flask App Screenshot](pod-accessed.png)
+(pod-accessed.png)
 
 ### **Shared Volume Output**
-![Shared Volume Output](shared-volume-pods.png)
+(shared-volume-pods.png)
 
 ---
 
