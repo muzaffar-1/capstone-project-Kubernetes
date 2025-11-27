@@ -79,16 +79,18 @@ Verified using: kubectl get all
 <img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/97899a1d-d798-4372-b6c4-93d6933308ac" />
 
 ### **Helm Chart Output**
-(helm-chart.png)
+<img width="569" height="671" alt="Image" src="https://github.com/user-attachments/assets/f1f40c5f-8fef-43a2-b020-6c248487b0dd" />
 
 ### **Ansible Apache Installation**
-(httppd.png)
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/d0837635-9be3-4723-8036-36d26dafa3ad" />
 
 ### **Flask App on Kubernetes**
-(pod-accessed.png)
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/cb0ccd84-1892-4d30-bfec-cd4468726261" />
+
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/b9cf9489-f8c3-4879-9ac2-557585012bed" />
 
 ### **Shared Volume Output**
-(shared-volume-pods.png)
+<img width="541" height="569" alt="Image" src="https://github.com/user-attachments/assets/65d85145-15a8-43e8-b566-fec4048e6ecd" />
 
 ---
 
