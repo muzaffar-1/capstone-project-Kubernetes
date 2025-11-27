@@ -76,7 +76,7 @@ Verified using: kubectl get all
 ## 📸 **Screenshots**
 
 ### **Docker Hub Repository**
-(docker-image.PNG)
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/97899a1d-d798-4372-b6c4-93d6933308ac" />
 
 ### **Helm Chart Output**
 (helm-chart.png)
