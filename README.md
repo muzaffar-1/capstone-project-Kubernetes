@@ -7,7 +7,7 @@ This project demonstrates automation skills across DevOps tools and cloud platfo
 
 ## 📌 **Project Overview**
 
-This capstone project was completed in three major phases:
+This capstone project was completed in six major phases:
 
 ### **1️⃣ Infrastructure Automation — Terraform**
 - Launched a **Terraform Workstation EC2** (Ubuntu, t2.micro)
